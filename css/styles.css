@@ -1,0 +1,9 @@
+body{
+  background-image:url("ff.jpg");
+  background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-position: center;
+}
+h1{
+  color: white;
+}
